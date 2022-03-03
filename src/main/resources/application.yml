@@ -1,0 +1,10 @@
+
+spring:
+  application:
+    name: admin-server
+
+server:
+  port: 19797 #运行端口号
+
+
+
